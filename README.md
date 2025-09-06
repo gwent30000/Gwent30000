@@ -9,8 +9,8 @@ Meu nome verdadeiro é João Marcos Alves, um apaixonado iniciante no mundo da p
 ## 🚀 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FFFF00?style=for-the-badge&logo=flask&logoColor=white)
-![API](https://img.shields.io/badge/API-Powered-brightgreen)
+![Flask](https://img.shields.io/badge/Flask-FFFF00?style=for-the-badge&logo=flask&logoColor=000000)
+![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## 📈 Estatísticas
 
