@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! 👋 Eu sou gwent30000
 
-<!--
-**gwent30000/Gwent30000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome verdadeiro é João Marcos Alves, um apaixonado iniciante no mundo da progamção. Estou me dedicado a aprender e aprimorar minhas habilidades em diversas tecnologias, com foco em backend para desenvolvimento web.
+
+## 🚀 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/API-Powered-brightgreen)
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gwent30000&show_icons=true&theme=radical)
